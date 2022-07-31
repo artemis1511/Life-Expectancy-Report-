@@ -20,11 +20,17 @@ After this conducted initial exploration of the data to get good understanding o
 
 Having gained good understanding of the  data got to work on the report to be able to share insights gained. 
 
-It is a two page report which I have put together  with page one giving an overview of life expectancy such as the fact that Japan has highest life expectancy around the world with 84 years and Sierra Leone the least at 34 years .
-
-Also shows 10 countries with highest alcohol intake globally 
-
+It is a two page report which I have put together  with page one giving an overview of life expectancy such as the fact that Japan has highest life expectancy around the world with 84 years and Sierra Leone the least at 34 years .Also shows 10 countries with highest alcohol intake globally 
 Life expectancy growth over time is also depicted with a line chart 
 
 Page 2 focuses on factors affecting life expectancy and insights drawn from that .
 
+### Recommendations
+From Analysis conducted some recommendations are made to the countries :
+
+1 For nations who wish to better their life expectancy scores greater healthcare spending will lead to better life expectancy.
+
+2 Excellent Schooling systems also improve life expectancy.
+
+3 Higher Immunization rates equals higher life expectancy.
+It is my firm belief that by following these recommendations countries will be able to increase their life expectancies.
